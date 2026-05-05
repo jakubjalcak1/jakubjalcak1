@@ -4,6 +4,8 @@ Beginner developer from Slovakia, currently studying in Košice.
 I write in C and build for the web. Passionate about where AI is heading
 and want to be part of it — I always finish what I start.
 
+Check out my portfolio → [My portfolio](https://jakubjalcak1.github.io/portfolio/)
+
 ---
 
 ### 🛠 Technologies & Tools
@@ -24,4 +26,4 @@ and want to be part of it — I always finish what I start.
 - 🤖 Interested in: AI and machine learning
 - 🔍 Open to internships or junior positions
 - 🌐 [jakubjalcak1.github.io](https://jakubjalcak1.github.io)
-- 📫 [jakubjalcak1@e=gmail.com](mailto:jakubjalcak1@gmail.com)
+- 📫 [jakubjalcak1@gmail.com](mailto:jakubjalcak1@gmail.com)
